@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **Did you know that the first computer game was created in 1961? It was a game called "Spacewar!" and it was created by a group of students at MIT. The game involved two spaceships battling it out in a gravity well, and it was played on a massive computer called the PDP-1. Nowadays, we have much more advanced gaming technology, but "Spacewar!" will always hold the title of being the first computer game ever created!**
+- ⚡ Fun fact **Did you know that the first computer game was created in 1961? It was a game called "Spacewar!" and it was created by a group of students at MIT. The game involved two spaceships battling it out in a gravity well, and it was played on a massive computer called the PDP-1. Nowadays, we have much more advanced gaming technology, but "Spacewar!" will always hold the title of being the first computer game ever created! Also seen in 🏴‍☠️!**
 
 
 
