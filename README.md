@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GamingwithAnikYT</h1>
+<h1 align="center">Hi 👋, I'm AnTic</h1>
 <h3 align="center">I'm a passionate gamer and JavaScript enthusiast who loves to explore new games and push the limits of what's possible in the gaming world. I'm always striving to improve my skills and learn new things.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
